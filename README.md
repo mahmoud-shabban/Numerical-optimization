@@ -2,7 +2,7 @@
 Implementation of algorithms used in numerical optimization for ML and DS <br/>
 In this course i have studied and implemented alot of numerical algorithms used in ML & DL models training<br/>
 some of this algorithms: <br/>
- "\t"1-Gradient decents and its variants(Batch - mini batch - stochastic) <br/>
+ &emsp;1-Gradient decents and its variants(Batch - mini batch - stochastic) <br/>
   	"\t"2- Momentum Based GD<br/>
   	"\t"3- Nesetrov Accelerated GD (NAG)  <br/>
  	"\t"4- Adaptive Gradient (Adagrad)<br/>
